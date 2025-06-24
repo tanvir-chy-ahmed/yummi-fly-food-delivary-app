@@ -96,7 +96,7 @@ flutter pub get
 Inside `main.dart`:
 
 ```dart
-Stripe.publishableKey = "your_stripe_key";
+Stripe.publishableKey = "0xxxxxx";
 ```
 
 5. **Run the app**

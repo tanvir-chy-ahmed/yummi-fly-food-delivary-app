@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">387995026331</string>
+    <string name="google_api_key" translatable="false">AIzaSyC2mtoGT0q0SpPLpR9YEcIa6U3BV4Ul55o</string>
+    <string name="google_app_id" translatable="false">1:387995026331:android:3c8dc4685df9a693b2973e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2mtoGT0q0SpPLpR9YEcIa6U3BV4Ul55o</string>
+    <string name="google_storage_bucket" translatable="false">food-app-yummi.firebasestorage.app</string>
+    <string name="project_id" translatable="false">food-app-yummi</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

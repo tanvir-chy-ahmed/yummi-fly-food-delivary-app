@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.yummy_fly_v3.app-debug-103:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.yummy_fly_v3.app-main-105:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.yummy_fly_v3.app-debug-103:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.yummy_fly_v3.app-main-105:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.yummy_fly_v3.app-debug-103:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.yummy_fly_v3.app-main-105:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.yummy_fly_v3.app-debug-103:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.yummy_fly_v3.app-main-105:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.yummy_fly_v3.app-debug-103:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.yummy_fly_v3.app-main-105:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.yummy_fly_v3.app-debug-103:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.yummy_fly_v3.app-main-105:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

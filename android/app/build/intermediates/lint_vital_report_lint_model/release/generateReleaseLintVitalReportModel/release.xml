@@ -1,0 +1,37 @@
+<variant
+    name="release"
+    package="com.example.yummy_fly_v3"
+    minSdkVersion="23"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="build\intermediates\merged_manifest\release\processReleaseMainManifest\AndroidManifest.xml"
+    manifestMergeReport="build\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.7.0;C:\Users\sdeve\Flutter SDK\flutter_windows_3.29.3-stable\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro;build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.7.0;proguard-rules.pro"
+    partialResultsDir="build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\release\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <artifact
+      classOutputs="build\intermediates\javac\release\compileReleaseJavaWithJavac\classes;build\tmp\kotlin-classes\release;build\kotlinToolingMetadata;build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\processReleaseResources\R.jar"
+      type="MAIN"
+      applicationId="com.example.yummy_fly_v3"
+      generatedSourceFolders="build\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="build\generated\res\processReleaseGoogleServices;build\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\sdeve\.gradle\caches\8.10.2\transforms\8e5128ff07917062db2c50969792e583\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

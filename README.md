@@ -76,7 +76,7 @@ lib/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/yummi_fly_app.git
+git clone https://github.com/tanvir-chy-ahmed/yummi-fly-food-delivary-app.git
 cd yummi_fly_app
 ```
 
@@ -121,7 +121,7 @@ flutter run
 ## 👨‍💻 Developer
 
 **Tanvir Ahmed Chowdhury**  
-📧 [tanvir-chy@gmail.com]  
+📧 [tanvirchy269@gmail.com]  
 🔗 [GitHub](https://github.com/tanvir-chy-ahmed) | [LinkedIn](https://www.linkedin.com/in/tanvir-ahmed-chy-126191367/)
 
 ---
